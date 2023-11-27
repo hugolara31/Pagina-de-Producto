@@ -13,16 +13,13 @@ Este proyecto es una página web desarrollada en React que se centra en la prese
 
 ## Instalación
 1. Clona este repositorio: `git clone https://github.com/hugolara31/Pagina-de-Producto`
-2. Navega al directorio del proyecto: `cd # Nombre del Proyecto
-
-## Instalación
-1. Clona este repositorio: `git clone https://github.com/hugolara31/Pagina-de-Producto`
 2. Navega al directorio del proyecto: `cd Pagina-de-Producto`
 3. Instala las dependencias: `npm install`
 
 ## Uso
 1. Inicia la aplicación: `npm start`
-2. Abre tu navegador y visita `http://localhost:3000`
+2. Abre tu navegador y visita
+3. # https://hugolara31.github.io/Pagina-de-Producto/
 
 
 ## Autor
